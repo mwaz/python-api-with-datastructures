@@ -1,4 +1,4 @@
-import pytest, requests, json
+import pytest
 import main
 import config
 
